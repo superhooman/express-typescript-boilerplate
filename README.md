@@ -1,4 +1,8 @@
 # express-typescript-boilerplate
+[![Build Status](https://travis-ci.org/superhooman/express-typescript-boilerplate.svg?branch=master)](https://travis-ci.org/superhooman/express-typescript-boilerplate)
+[![Dependencies](https://david-dm.org/superhooman/express-typescript-boilerplate/status.svg)](https://david-dm.org/superhooman/express-typescript-boilerplate)
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/superhooman/express-typescript-boilerplate.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/superhooman/express-typescript-boilerplate/context:javascript)
+
 A little bit opinionated Express + TypeScript + MongoDB boilerplate.
 ## What is used:
 - `express`

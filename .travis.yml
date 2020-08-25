@@ -1,0 +1,9 @@
+language: node_js
+node_js:
+  - '12'
+install:
+  - yarn install
+env:
+  - PORT="3010" CLIENT_URL="http://localhost:3000" MONGO_URL="mongodb://localhost/expresstypescript" REDIS_URL="127.0.0.1:6379" USEPROXY="false" DOMAIN=".que.kz" COOKIE_NAME="ssid" SESSION_SECRET="a"
+script:
+  - yarn build
