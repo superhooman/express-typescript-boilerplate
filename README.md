@@ -1,4 +1,5 @@
 # express-typescript-boilerplate
+[![Build Status](https://travis-ci.org/superhooman/express-typescript-boilerplate.svg?branch=master)](https://travis-ci.org/superhooman/express-typescript-boilerplate)
 A little bit opinionated Express + TypeScript + MongoDB boilerplate.
 ## What is used:
 - `express`
