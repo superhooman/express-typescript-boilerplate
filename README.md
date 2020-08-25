@@ -16,12 +16,12 @@ A little bit opinionated Express + TypeScript + MongoDB boilerplate.
 ## Installation
 
 1. Install dependencies
-```
-npm -i //or yarn
+```bash
+npm -i #or yarn
 ```
 2. Build sources
-```
-npm run build //or yarn build
+```bash
+npm run build #or yarn build
 ```
 3. Copy `.env.example` to `.env`
 4. Edit `.env` file and put required variables
