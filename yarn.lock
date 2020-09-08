@@ -1417,9 +1417,9 @@ gauge@~2.7.3:
     wide-align "^1.1.0"
 
 gen-env-types@^1.0.3:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/gen-env-types/-/gen-env-types-1.0.3.tgz#f19a0bcf6afcb09131395bce5446997e02570219"
-  integrity sha512-Qxwasw54sn9EY8r34DTej92pWG78agRxRMc9rPSy+sRJLMWTxItoCC4fS2iC0fYCdn1E7auGMjHEk7HwJ3KSYA==
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/gen-env-types/-/gen-env-types-1.0.4.tgz#a8f635790ea6f0cc35953f58d5013580dd08f0f4"
+  integrity sha512-cYxgeOcMm/46pA28j2ga0GSNVgT+HLRjFoqRiYPkL/HyAcma/V6Er3EzLBihnrtCN9Fm0iC7UgZit9l9yQtKiA==
   dependencies:
     chalk "^4.0.0"
 
