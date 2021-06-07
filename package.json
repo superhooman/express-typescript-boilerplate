@@ -37,7 +37,7 @@
     "@types/mongoose": "^5.7.36",
     "argon2": "^0.27.0",
     "body-parser": "^1.19.0",
-    "connect-redis": "^5.0.0",
+    "connect-redis": "^6.0.0",
     "cors": "^2.8.5",
     "debug": "^4.1.1",
     "dotenv": "^8.2.0",
