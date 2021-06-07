@@ -187,9 +187,9 @@
   integrity sha512-OCutwjDZ4aFS6PB1UZ988C4YgwlBHJd6wCeQqaLdmadZ/7e+w79+hbMUFC1QXDNCmdyoRfAFdm0RypzwR+Qpag==
 
 "@types/express-rate-limit@^5.1.0":
-  version "5.1.0"
-  resolved "https://registry.yarnpkg.com/@types/express-rate-limit/-/express-rate-limit-5.1.0.tgz#c08e9b4957989fbe5ff8d5224f392359a264a597"
-  integrity sha512-vmg7S3hUnfFmp06V01DrTB41mbQYXMV/F4aF5KKnfCIeSlnizatXaqO9UgR6LvNEEd3eMpuUTLxR6nv3d4hZ6g==
+  version "5.1.2"
+  resolved "https://registry.yarnpkg.com/@types/express-rate-limit/-/express-rate-limit-5.1.2.tgz#51f030ce722fe298269f85378b49a34837a1d2ca"
+  integrity sha512-loN1dcr0WEKsbVtXNQKDef4Fmh25prfy+gESrwTDofIhAt17ngTxrsDiEZxLemmfHH279x206CdUB9XHXS9E6Q==
   dependencies:
     "@types/express" "*"
 
